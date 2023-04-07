@@ -9,7 +9,7 @@ Python implementation of RRT and RRT* algorithm
 * End Position = [1.558, 1.946]
 
 ### RRT Path
-<img src="/results/rrt_path.png" width="30%" height="30%"/>
+<img src="/results/rrt_path.png" width="50%" height="50%"/>
 
 ### RRT* Path
-<img src="/results/rrt_star_path.png" width="30%" height="30%"/>
+<img src="/results/rrt_star_path.png" width="50%" height="50%"/>
